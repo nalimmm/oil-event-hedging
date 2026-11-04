@@ -1,0 +1,474 @@
+[
+ {
+  "event_id": "455875",
+  "event_title": "Strait of Hormuz traffic returns to normal by December 31?",
+  "market_id": "2176270",
+  "question": "Strait of Hormuz traffic returns to normal by December 31?",
+  "yes_token": "83783489454659420807679723574840032660002326710045123865554753994450797728825",
+  "volume": 16361232
+ },
+ {
+  "event_id": "830254",
+  "event_title": "Strait of Hormuz traffic returns to normal by November 30?",
+  "market_id": "3501951",
+  "question": "Strait of Hormuz traffic returns to normal by November 30?",
+  "yes_token": "18077313030201522388676673488157544588986077823815688276055531102255531898625",
+  "volume": 1290072
+ },
+ {
+  "event_id": "681406",
+  "event_title": "Which month will Strait of Hormuz traffic return to normal?",
+  "market_id": "2849424",
+  "question": "Will Strait of Hormuz traffic not return to normal in 2026?",
+  "yes_token": "78565964677256576716355908364098575015833674426012380259849061634608497178931",
+  "volume": 436143
+ },
+ {
+  "event_id": "681406",
+  "event_title": "Which month will Strait of Hormuz traffic return to normal?",
+  "market_id": "2849421",
+  "question": "Will Strait of Hormuz traffic return to normal in October?",
+  "yes_token": "111444988291674129030189084117602579604677196594442714713150758164975136683933",
+  "volume": 31355
+ },
+ {
+  "event_id": "681406",
+  "event_title": "Which month will Strait of Hormuz traffic return to normal?",
+  "market_id": "2849423",
+  "question": "Will Strait of Hormuz traffic return to normal in December?",
+  "yes_token": "10785008694754216555481618869335125623926803021625498583476628189117803595088",
+  "volume": 28158
+ },
+ {
+  "event_id": "681406",
+  "event_title": "Which month will Strait of Hormuz traffic return to normal?",
+  "market_id": "2849422",
+  "question": "Will Strait of Hormuz traffic return to normal in November?",
+  "yes_token": "79521573148332813781484061587490119533867926921079070705898735787159105183546",
+  "volume": 16318
+ },
+ {
+  "event_id": "1274102",
+  "event_title": "How many ships transit the Strait of Hormuz week of November 2?",
+  "market_id": "6364510",
+  "question": "Will 25-29 ships transit the Strait of Hormuz between November 2-November 8?",
+  "yes_token": "44638643878766543070326193941751141753656079503543623627007705884920633919080",
+  "volume": 909
+ },
+ {
+  "event_id": "1274102",
+  "event_title": "How many ships transit the Strait of Hormuz week of November 2?",
+  "market_id": "6364513",
+  "question": "Will 40 or more ships transit the Strait of Hormuz between November 2-November 8?",
+  "yes_token": "50091753070609958068852479343088998777211674545538703707759661408044580326240",
+  "volume": 863
+ },
+ {
+  "event_id": "1274102",
+  "event_title": "How many ships transit the Strait of Hormuz week of November 2?",
+  "market_id": "6364508",
+  "question": "Will fewer than 20 ships transit the Strait of Hormuz between November 2-November 8?",
+  "yes_token": "63016698515860435345203829273302218563927344079380767522426925327155214020868",
+  "volume": 369
+ },
+ {
+  "event_id": "1274102",
+  "event_title": "How many ships transit the Strait of Hormuz week of November 2?",
+  "market_id": "6364512",
+  "question": "Will 35-39 ships transit the Strait of Hormuz between November 2-November 8?",
+  "yes_token": "110506290252295931649570357595646747728812045996117654739883687721941156809905",
+  "volume": 353
+ },
+ {
+  "event_id": "1274102",
+  "event_title": "How many ships transit the Strait of Hormuz week of November 2?",
+  "market_id": "6364511",
+  "question": "Will 30-34 ships transit the Strait of Hormuz between November 2-November 8?",
+  "yes_token": "43501637343183944593050756999418215607809540185336226276607859541819482677644",
+  "volume": 214
+ },
+ {
+  "event_id": "1274102",
+  "event_title": "How many ships transit the Strait of Hormuz week of November 2?",
+  "market_id": "6364509",
+  "question": "Will 20-24 ships transit the Strait of Hormuz between November 2-November 8?",
+  "yes_token": "355175226207035936403611591800569131353940900654901671566365842253986893348",
+  "volume": 205
+ },
+ {
+  "event_id": "1285993",
+  "event_title": "Will __ ships transit the Strait of Hormuz on any day by November 30?",
+  "market_id": "6440108",
+  "question": "Will at least 10 ships transit the Strait of Hormuz on any day by November 30, 2026?",
+  "yes_token": "32392763822753473124035928136248806020616344873491087876352214614828043589225",
+  "volume": 2236
+ },
+ {
+  "event_id": "1285993",
+  "event_title": "Will __ ships transit the Strait of Hormuz on any day by November 30?",
+  "market_id": "6440111",
+  "question": "Will at least 40 ships transit the Strait of Hormuz on any day by November 30, 2026?",
+  "yes_token": "87870856857215626171139135461200113023183039210104508864141633554096962953465",
+  "volume": 1240
+ },
+ {
+  "event_id": "1285993",
+  "event_title": "Will __ ships transit the Strait of Hormuz on any day by November 30?",
+  "market_id": "6440110",
+  "question": "Will at least 30 ships transit the Strait of Hormuz on any day by November 30, 2026?",
+  "yes_token": "97949906043954856682348804158350028597347020654943082186277450618580462687962",
+  "volume": 1122
+ },
+ {
+  "event_id": "1285993",
+  "event_title": "Will __ ships transit the Strait of Hormuz on any day by November 30?",
+  "market_id": "6440112",
+  "question": "Will at least 50 ships transit the Strait of Hormuz on any day by November 30, 2026?",
+  "yes_token": "39321982943077422245276219662018921170048434971670287854669775998885973424480",
+  "volume": 664
+ },
+ {
+  "event_id": "1285993",
+  "event_title": "Will __ ships transit the Strait of Hormuz on any day by November 30?",
+  "market_id": "6440109",
+  "question": "Will at least 20 ships transit the Strait of Hormuz on any day by November 30, 2026?",
+  "yes_token": "77149103690936155414360089094600396120035482016154796376059230176777580870459",
+  "volume": 501
+ },
+ {
+  "event_id": "699735",
+  "event_title": "US announces end of Iranian blockade by...?",
+  "market_id": "3128886",
+  "question": "US announces end of Iranian blockade by December 31, 2026?",
+  "yes_token": "86011229287950365043519117852041614651767455889324682112682327985496937935368",
+  "volume": 5057441
+ },
+ {
+  "event_id": "699735",
+  "event_title": "US announces end of Iranian blockade by...?",
+  "market_id": "4906128",
+  "question": "US announces end of Iranian blockade by November 30, 2026?",
+  "yes_token": "6644532381217254800986375202522846648159135474005033660497726168023227540949",
+  "volume": 1146994
+ },
+ {
+  "event_id": "699735",
+  "event_title": "US announces end of Iranian blockade by...?",
+  "market_id": "6282802",
+  "question": "US announces end of Iranian blockade by November 15, 2026?",
+  "yes_token": "14546978402393561886763794016233348324197383968729459022246166822328488515646",
+  "volume": 515425
+ },
+ {
+  "event_id": "699735",
+  "event_title": "US announces end of Iranian blockade by...?",
+  "market_id": "4906129",
+  "question": "US announces end of Iranian blockade by March 31, 2027?",
+  "yes_token": "85254962656314962064648492774584063365849461315753521676016468731069088672",
+  "volume": 245136
+ },
+ {
+  "event_id": "1038648",
+  "event_title": "US-Iran ceasefire continues through...?",
+  "market_id": "4641065",
+  "question": "US x Iran ceasefire continues through October 31?",
+  "yes_token": "67102598924726349989742049657609063097299442010642912942032681022413402597017",
+  "volume": 10209368
+ },
+ {
+  "event_id": "1038648",
+  "event_title": "US-Iran ceasefire continues through...?",
+  "market_id": "6369333",
+  "question": "US x Iran ceasefire continues through November 2?",
+  "yes_token": "3149184221354072778711612185076748475145234784664533895827707643347517632045",
+  "volume": 1965101
+ },
+ {
+  "event_id": "1038648",
+  "event_title": "US-Iran ceasefire continues through...?",
+  "market_id": "6588210",
+  "question": "US x Iran ceasefire continues through November 3?",
+  "yes_token": "34654233119656771852120414405090382940884172280730040477764691731529421072710",
+  "volume": 775322
+ },
+ {
+  "event_id": "1038648",
+  "event_title": "US-Iran ceasefire continues through...?",
+  "market_id": "6588212",
+  "question": "US x Iran ceasefire continues through November 5?",
+  "yes_token": "12526297850538754547036341766501228907199517626228367369570260430453676068514",
+  "volume": 235817
+ },
+ {
+  "event_id": "1038648",
+  "event_title": "US-Iran ceasefire continues through...?",
+  "market_id": "6588209",
+  "question": "US x Iran ceasefire continues through November 6?",
+  "yes_token": "92974191263574526717827534894045397180352289814629425870685560603679803995279",
+  "volume": 153203
+ },
+ {
+  "event_id": "1038648",
+  "event_title": "US-Iran ceasefire continues through...?",
+  "market_id": "6588211",
+  "question": "US x Iran ceasefire continues through November 7?",
+  "yes_token": "109427166271574729125775034221107099701492726414696609959838474698021722121382",
+  "volume": 133534
+ },
+ {
+  "event_id": "73130",
+  "event_title": "Will the U.S. invade Iran before 2027?",
+  "market_id": "665374",
+  "question": "Will the U.S. invade Iran before 2027?",
+  "yes_token": "55115078421062885512539156303747803058407616201213034911037320915726138659123",
+  "volume": 76808907
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6172747",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $150 in November?",
+  "yes_token": "100728147947873341263578586536868916568561068385228699960218169448677793879406",
+  "volume": 149361
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6172746",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $160 in November?",
+  "yes_token": "12553040358764884719950417267368243596960164264389710385277445901542347929821",
+  "volume": 136679
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6172749",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?",
+  "yes_token": "89706420241180641117916701552178895149927695935641042593609753282635272933164",
+  "volume": 133065
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6172748",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in November?",
+  "yes_token": "55384247068556475361388685908099135473029498738626678394118423610412983654605",
+  "volume": 74793
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6207381",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in November?",
+  "yes_token": "76399648559880908228964588119618285107702870503503309822827264449261392107008",
+  "volume": 62675
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6172750",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in November?",
+  "yes_token": "63611827220815770731467532563970303284749420779124899801068118383385244737027",
+  "volume": 39955
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6207378",
+  "question": "Will WTI Crude Oil (WTI) hit (LOW) $95 in November?",
+  "yes_token": "100471074588138005443861657248983920159228929279466800000290610334440517608628",
+  "volume": 31208
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6207377",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in November?",
+  "yes_token": "4598154058081600141940343986128371425552111800231706218701820270779979460",
+  "volume": 25637
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6172751",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in November?",
+  "yes_token": "48715842606758639451269089934222401539087372216344078922978815753995011035392",
+  "volume": 24668
+ },
+ {
+  "event_id": "1250301",
+  "event_title": "What will WTI Crude Oil (WTI) hit in November 2026?",
+  "market_id": "6172753",
+  "question": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
+  "yes_token": "69254100680064138314751411670157258294393901087056536050272991061223906437812",
+  "volume": 17910
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436903",
+  "question": "Will WTI Crude Oil (WTI) hit (LOW) $85 Week of November 2 2026?",
+  "yes_token": "41225602965602429384767344359215534840013580667002343996660267381255666159024",
+  "volume": 2542
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436902",
+  "question": "Will WTI Crude Oil (WTI) hit (LOW) $90 Week of November 2 2026?",
+  "yes_token": "35367551606257302298097255114487135732894822077683802999041597607526588278944",
+  "volume": 1435
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436904",
+  "question": "Will WTI Crude Oil (WTI) hit (LOW) $80 Week of November 2 2026?",
+  "yes_token": "84814494340326716145032467343205846483820864185774094594797519484380373089942",
+  "volume": 1000
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436899",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $105 Week of November 2 2026?",
+  "yes_token": "74726111682240076714929089119989783090299178853404653115543326303298421718186",
+  "volume": 634
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436898",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 Week of November 2 2026?",
+  "yes_token": "103628495657680645752470814630004111345812385675072235784388399153197674900516",
+  "volume": 232
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436897",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $115 Week of November 2 2026?",
+  "yes_token": "80807905152732917421560145862656286866568961785889271175528234706394908010271",
+  "volume": 219
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436893",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $135 Week of November 2 2026?",
+  "yes_token": "72883613061088176982612341620122496455585570780607225259607393586834500561698",
+  "volume": 50
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6588733",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 Week of November 2 2026?",
+  "yes_token": "34259756925471206326196637822722528125455090123777705309412470883406609776310",
+  "volume": 47
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436894",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $130 Week of November 2 2026?",
+  "yes_token": "52813128708297095192681683178699941966260887315608943599192840883986140872092",
+  "volume": 0
+ },
+ {
+  "event_id": "1285463",
+  "event_title": "What will WTI Crude Oil (WTI) hit Week of November 2 2026?",
+  "market_id": "6436895",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $125 Week of November 2 2026?",
+  "yes_token": "43336853847232428208631075545449705526422249143684861534562978312819079003769",
+  "volume": 0
+ },
+ {
+  "event_id": "42365",
+  "event_title": "Will the U.S. invade Venezuela by...?",
+  "market_id": "1107737",
+  "question": "Will the U.S. invade Venezuela by December 31, 2026?",
+  "yes_token": "79603803658358131940134977667341878755182252168903267751430480581926601085521",
+  "volume": 276097
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105754",
+  "question": "Will Richard Grenell be the leader of Venezuela end of 2026?",
+  "yes_token": "63041927234014862550752749844577619438319946530923167906649363118591050055991",
+  "volume": 32812820
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105752",
+  "question": "Will Frank Donovan be the leader of Venezuela end of 2026?",
+  "yes_token": "102488069217181040733050347118082609606893446345922306325497036296077206149582",
+  "volume": 25983651
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105750",
+  "question": "Will Pete Hegseth be the leader of Venezuela end of 2026?",
+  "yes_token": "104769838619091338531297529252838473576191240472079657441003392006780754738080",
+  "volume": 9346964
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105751",
+  "question": "Will Evan Pettus be the leader of Venezuela end of 2026?",
+  "yes_token": "29837838565073869827145553292583668903967817176034246371462591974518514238766",
+  "volume": 5670513
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105753",
+  "question": "Will Dan Caine be the leader of Venezuela end of 2026?",
+  "yes_token": "14828058791696346976751024458072495125359450860754215130677654093999617502961",
+  "volume": 4154269
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105744",
+  "question": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
+  "yes_token": "37090128566507509913630589460372620352013766554886380785463533062224343545231",
+  "volume": 3886687
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105745",
+  "question": "Will Dinorah Figuera be the leader of Venezuela end of 2026?",
+  "yes_token": "63520322965196077858161646392631185222879535067184355961912182985450749868276",
+  "volume": 3111813
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105742",
+  "question": "Will Delcy Rodr\u00edguez be the leader of Venezuela end of 2026?",
+  "yes_token": "38667196958602416137463628517439560119304765709104570192447644733106171420112",
+  "volume": 2497253
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105743",
+  "question": "Will Diosdado Cabello Rond\u00f3n be the leader of Venezuela end of 2026?",
+  "yes_token": "112746945158746257741635529019662641558199388176511485763810876768315276888838",
+  "volume": 2169248
+ },
+ {
+  "event_id": "143443",
+  "event_title": "Venezuela leader end of 2026?",
+  "market_id": "1105741",
+  "question": "Will Mar\u00eda Corina Machado be the leader of Venezuela end of 2026?",
+  "yes_token": "111206023652925249192617904527998565944558514529537236601741996492948632883698",
+  "volume": 1671638
+ }
+]

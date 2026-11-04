@@ -1,0 +1,4 @@
+data/live/
+__pycache__/
+*.pyc
+data/polymarket/search_*.json
